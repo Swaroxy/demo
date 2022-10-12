@@ -1,0 +1,41 @@
+assignment
+Variable
+Data type
+Operator and types of operator in Python
+
+Assignment in Python
+
+The assignment operator in python assigns different types of assignment operators. 
+
+Varriables in Python
+
+A variable is basically just a way to give a meaningful name to an area of memory, into which we can place certain values. Varriables are
+
+created when they are first attatched to a value, using= . 
+
+Numeric Data types in Python
+
+The Python integer data type is called int. Integers are just whole numbers - numbers having no fractional part; whereas float is another
+
+part after the decimal point. There is no limit to the size of the values that you can store in Python int.
+
+Floating point numbers or float are used to represent numbers having a fractional part. 
+
+Numeric Operators
+
+There are 7 arithmetic operators in Python :
+
+Addition  : In Python, + is the addition operator. It is used to add 2 values.
+
+Subtraction :  In Python, - is the subtraction operator. It is used to subtract 2 values.
+
+Multiplication :  In Python, * is the multiplication operator. It is used to multiply 2 values.
+
+Division :  In Python, / is the division operator. It is used to find the quotient when first operand is divided by the second.
+
+Modulus : In Python, % is the modulus operator. It is used to find the remainder when first operand is divided by the second.
+
+Exponentiation : In Python, ** is the exponentiation operator. It is used to raise the first operand to power of second.
+
+Floor division : In Python, floor division divides two numbers and rounds the result down to the nearest integer.
+
